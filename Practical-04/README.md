@@ -1,8 +1,8 @@
 # Practical 4 - Implementation and Time Analysis of Factorial using Iterative and Recursive Methods
 
 **Course:** DAA (01AI0506)  
-**Name:** SETTI APPALANAIDU  
-**Enrollment No:** 92510118026
+**Name:** RAKSHANAND GANNINA
+**Enrollment No:** 92460118130
 
 Files:
 - `practical_04.cpp` - C++ code
